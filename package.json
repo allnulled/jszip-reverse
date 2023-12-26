@@ -1,30 +1,31 @@
 {
-  "name": "jszip-reverse",
-  "version": "1.0.1",
-  "description": "Generates JSZip scripts to download one folder recursively.",
-  "main": "jszip-reverse.js",
-  "bin": {
-    "jszip-reverse": "jszip-reverse.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "allnulled",
-  "license": "WTFPL",
-  "dependencies": {
-    "jszip-cli": "^1.4.24"
-  },
-  "directories": {
-    "lib": "lib"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/allnulled/jszip-reverse.git"
-  },
-  "bugs": {
-    "url": "https://github.com/allnulled/jszip-reverse/issues"
-  },
-  "homepage": "https://github.com/allnulled/jszip-reverse#readme"
+    "name": "jszip-reverse",
+    "version": "1.0.1",
+    "description": "Generates JSZip scripts to download one folder recursively.",
+    "main": "jszip-reverse.js",
+    "bin": {
+        "jszip-reverse": "jszip-reverse.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "allnulled",
+    "license": "WTFPL",
+    "dependencies": {
+        "jszip-cli": "^1.4.24"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/allnulled/jszip-reverse.git"
+    },
+    "bugs": {
+        "url": "https://github.com/allnulled/jszip-reverse/issues"
+    },
+    "homepage": "https://github.com/allnulled/jszip-reverse#readme",
+    "uuid_commit": 1
 }
