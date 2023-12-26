@@ -1,6 +1,6 @@
 {
   "name": "jszip-reverse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates JSZip scripts to download one folder recursively.",
   "main": "jszip-reverse.js",
   "bin": {
